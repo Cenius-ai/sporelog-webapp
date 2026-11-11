@@ -1,0 +1,168 @@
+{
+  "schema_version": 1,
+  "entries": [
+    {
+      "id": "0d33d127272d",
+      "species": "Chanterelle",
+      "date": "2022-07-09",
+      "location": "oak ridge",
+      "count": 4,
+      "notes": "under leaf litter by the fence",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "id": "956befa3b40c",
+      "species": "Chanterelle",
+      "date": "2023-07-14",
+      "location": "oak ridge",
+      "count": 3,
+      "notes": "under log",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "id": "d5808dae0b28",
+      "species": "Chanterelle",
+      "date": "2024-07-21",
+      "location": "oak ridge",
+      "count": 2,
+      "notes": "same log, two weeks later",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "id": "4c065d92746e",
+      "species": "Chanterelle",
+      "date": "2024-09-08",
+      "location": "birch hollow",
+      "count": 1,
+      "notes": "late flush after a wet week",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "id": "77a15ae8fa79",
+      "species": "Oyster",
+      "date": "2023-10-02",
+      "location": "birch hollow",
+      "count": 6,
+      "notes": "stacked on a fallen birch",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "id": "8c1a79f494a9",
+      "species": "Oyster",
+      "date": "2024-10-19",
+      "location": "birch hollow",
+      "count": 5,
+      "notes": "same trunk, lower tier",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "id": "194a3d959a31",
+      "species": "Oyster",
+      "date": "2025-01-11",
+      "location": "birch hollow",
+      "count": 2,
+      "notes": "mild winter, still firm",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "id": "e5c7f9b5f9c8",
+      "species": "Hedgehog",
+      "date": "2023-09-24",
+      "location": "moss bank",
+      "count": 3,
+      "notes": "under hemlock, deer trail",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "id": "0bc7376b4bb4",
+      "species": "Hedgehog",
+      "date": "2024-09-15",
+      "location": "moss bank",
+      "count": 4,
+      "notes": "scattered along the bank",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "id": "903c64eccf9e",
+      "species": "King Bolete",
+      "date": "2024-08-03",
+      "location": "pine knoll",
+      "count": 1,
+      "notes": "single button, ants got there",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "id": "98804e784687",
+      "species": "King Bolete",
+      "date": "2025-08-16",
+      "location": "pine knoll",
+      "count": 2,
+      "notes": "after three days of rain",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "id": "d1f78685bd80",
+      "species": "Shaggy Inkcap",
+      "date": "2025-05-18",
+      "location": "lane verge",
+      "count": 5,
+      "notes": "gravel shoulder after mowing",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "id": "331c991d0139",
+      "species": "Wood Ear",
+      "date": "2024-12-07",
+      "location": "birch hollow",
+      "count": 8,
+      "notes": "on dead elder",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "id": "a527839744cf",
+      "species": "Meadow Waxcap",
+      "date": "2025-06-29",
+      "location": "church meadow",
+      "count": 12,
+      "notes": "unmown strip by the gate",
+      "created_at": "2026-11-11T22:07:46+00:00"
+    }
+  ],
+  "habitats": [
+    {
+      "location": "birch hollow",
+      "terrain": "shaded hollow",
+      "trees": "silver birch, elder",
+      "notes": "Fallen birch held off the ground",
+      "updated_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "location": "church meadow",
+      "terrain": "level meadow",
+      "trees": "hawthorn hedge, grass",
+      "notes": "Unmown strip left along the wall",
+      "updated_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "location": "moss bank",
+      "terrain": "steep north-facing bank",
+      "trees": "hemlock, moss",
+      "notes": "Deer trail crosses the mid-slope",
+      "updated_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "location": "oak ridge",
+      "terrain": "gentle east slope",
+      "trees": "oak, hazel",
+      "notes": "Damp gully along the north fence",
+      "updated_at": "2026-11-11T22:07:46+00:00"
+    },
+    {
+      "location": "pine knoll",
+      "terrain": "sandy rise",
+      "trees": "scots pine, heather",
+      "notes": "Thin sand soil, drains fast",
+      "updated_at": "2026-11-11T22:07:46+00:00"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.sporelog-*.tmp
+.DS_Store
+
+# sporelog.json is intentionally tracked: it is the shipped sample log so
+# `list` and `season` show real content on a fresh clone. Add it here if you
+# would rather keep your own foraging log out of version control.
